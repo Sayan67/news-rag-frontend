@@ -5,7 +5,6 @@ import {
   getActiveSession,
   setActiveSession,
   getSessions,
-  addSession,
   removeSession,
 } from "../utils/storage";
 
